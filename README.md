@@ -11,6 +11,6 @@ Also sends daily safety tweets.
 
 If you are trying to use it change auth.py so you can tweet from your own account.
 
-I have a crontab on all of them that run every few minutes to check for new updates.
+I have a crontab on all of them that run every few minutes to check for new updates, runs on a Raspberry Pi Zero W.
 
 if you have any questions tweet me @CoroNu19

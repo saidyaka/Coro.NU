@@ -1,8 +1,9 @@
 # Coro.NU
-A Twitter bot that automatically tweets the new COVID19 cases at Northwestern University
+An automated Twitter bot that tweets the new COVID19 cases at Northwestern University
 
-My account: https://twitter.com/CoroNu19
 
+account: https://twitter.com/CoroNu19
+With 300+ followers
 
 Uses beautiful soup to pull data from NU websites and tweets when a new update regarding COVID19 is posted.
 
